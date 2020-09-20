@@ -14,7 +14,8 @@ __Discord__: M.R.A.Z#4387
 3. JS
 ***
 ## Educations
-NTUU Ihor Sikorskiy "KPI"
+National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”
 
 Bachelor of Telecommunications and Radio Engineering Engineer
 ***
